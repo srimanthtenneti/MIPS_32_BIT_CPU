@@ -4,12 +4,18 @@
 
 1. [Team & Mentor](#t&m)
 2. [Introduction](#introduction)
+      1. [History](#mips_his)
+      2. [Targeted ISA](#ISA)
 3. [Processor Specifications](#spec)
 4. [Simulation](#sim)
 5. [Implementation](#impl)
 6. [Reports](#rpts)
+     1. [Power](#pwr)
+     2. [Area](#area)
+     3. [Timing](#tim)
 7. [Analysis](#ana)
-8. [Conclusion](#conc)
+8. [Applications](#app)
+9. [Conclusion](#conc)
 
 ### Team & Mentor 
 
