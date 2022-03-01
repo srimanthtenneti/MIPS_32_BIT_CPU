@@ -2,7 +2,7 @@
 
 ### Team &Mentor 
 
-<b>Mentor : Assoc Prof P. Anil Kumar <a name=""></a></b>
+<b>Mentor : Assoc Prof P. Anil Kumar <a name="t&m"></a></b>
 
 <b>Team </b>
 
@@ -14,7 +14,7 @@
 
 ### Table of Contents
 
-1. [Team & Memtor](#t&m)
+1. [Team & Mentor](#t&m)
 2. [Introduction](#introduction)
 3. [Processor Specifications](#spec)
 4. [Simulation](#sim)
