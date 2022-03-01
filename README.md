@@ -12,8 +12,8 @@
 
 ### Table of Contents
 
-1. [Introduction] (#introduction)
-2. [Processor Specifications] (#spec)
-3. [Simulation] (#sim)
-4. [Implementation] (#impl)
-5. [Reports] (#rpts)
+1. [Introduction](#introduction)
+2. [Processor Specifications](#spec)
+3. [Simulation](#sim)
+4. [Implementation](#impl)
+5. [Reports](#rpts)
