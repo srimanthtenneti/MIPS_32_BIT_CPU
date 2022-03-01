@@ -1,8 +1,10 @@
 # High Performance Computing Processor
 
-### Mentor : Assoc Prof P. Anil Kumar
+### Team &Mentor 
 
-### Team
+<b>Mentor : Assoc Prof P. Anil Kumar <a name=""></a></b>
+
+<b>Team </b>
 
 | Name                  | Roll Number |
 | --------------------- | ----------- |
