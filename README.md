@@ -12,8 +12,11 @@
 
 ### Table of Contents
 
-1. [Introduction](#introduction)
-2. [Processor Specifications](#spec)
-3. [Simulation](#sim)
-4. [Implementation](#impl)
-5. [Reports](#rpts)
+1. [Team & Memtor](#t&m)
+2. [Introduction](#introduction)
+3. [Processor Specifications](#spec)
+4. [Simulation](#sim)
+5. [Implementation](#impl)
+6. [Reports](#rpts)
+7. [Analysis](#ana)
+8. [Conclusion](#conc)
