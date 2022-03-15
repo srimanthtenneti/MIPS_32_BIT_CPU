@@ -30,7 +30,7 @@
 | Rithvik Reddy         | 18B81A04M3  |
 
 ### Introduction
-#### History
+#### History <a name="mips_his"></a>
 
 ![MIPS_LOGO](Images/mips_logo_678x452.png)
 
@@ -38,7 +38,7 @@ MIPS (Microprocessor without Interlocked Pipelined Stages) is a family of reduce
 
 There are multiple versions of MIPS: including MIPS I, II, III, IV, and V; as well as five releases of MIPS32/64 (for 32- and 64-bit implementations, respectively). The early MIPS architectures were 32-bit; 64-bit versions were developed later. As of April 2017, the current version of MIPS is MIPS32/64 Release 6. MIPS32/64 primarily differs from MIPS I–V by defining the privileged kernel mode System Control Coprocessor in addition to the user mode architecture.
 
-#### Targeted ISA
+#### Targeted ISA <a name="ISA"></a>
 ##### Integer Core - v1.01
 
 The following MIPS32 instructions are supported by our Integer Core v1.01. 
