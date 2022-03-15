@@ -7,15 +7,16 @@
       1. [History](#mips_his)
       2. [Targeted ISA](#ISA)
 3. [Processor Specifications](#spec)
-4. [Simulation](#sim)
-5. [Implementation](#impl)
-6. [Reports](#rpts)
+4. 
+5. [Simulation](#sim)
+6. [Implementation](#impl)
+7. [Reports](#rpts)
      1. [Power](#pwr)
      2. [Area](#area)
      3. [Timing](#tim)
-7. [Analysis](#ana)
-8. [Applications](#app)
-9. [Conclusion](#conc)
+8. [Analysis](#ana)
+9. [Applications](#app)
+10. [Conclusion](#conc)
 
 ### Team & Mentor 
 
@@ -60,5 +61,5 @@ The following MIPS32 instructions are supported by our Integer Core v1.01.
 | FPU Supported Operations    | Add,Sub,Mul,Div    |
 | Pipelined                   | Yes                |
 | I/O Interfaces              | UART,PS-II,I2C     |
-| Bus Interface               | AXI or PCI (NYD)    | 
+| Bus Interface               | AXI or PCI (NYD)   | 
 
