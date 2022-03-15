@@ -45,4 +45,13 @@ The following MIPS32 instructions are supported by our Integer Core v1.01.
 
 ![ISA](Images/ISA.png)
 
+### Processor Specifications <a name="spec"></a>
+
+| Parameter                   | Information        |
+| --------------------------- | ------------------ |
+| ISA                         | MIPS32             |
+| Architecture                | Harvard Model      |
+| GPRs                        | 32                 |
+| Flags                       | Overflow,Zero,Halt |
+| Supported Instruction Types | I,J,R Types        |
 
