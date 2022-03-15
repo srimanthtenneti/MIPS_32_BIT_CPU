@@ -50,8 +50,13 @@ The following MIPS32 instructions are supported by our Integer Core v1.01.
 | Parameter                   | Information        |
 | --------------------------- | ------------------ |
 | ISA                         | MIPS32             |
+| Family                      | M32HAIAF           |
+| Model                       | 0002(Latest)       |
 | Architecture                | Harvard Model      |
 | GPRs                        | 32                 |
 | Flags                       | Overflow,Zero,Halt |
-| Supported Instruction Types | I,J,R Types        |
+| Supported Instruction Types | R,I,J Types        |
+| External Interrupts         |  1                 |
+| FPU Supported Operations    | Add,Sub,Mul,Div    |
+| Pipelined                   | Yes                |
 
