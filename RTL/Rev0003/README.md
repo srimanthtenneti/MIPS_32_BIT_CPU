@@ -6,15 +6,19 @@ This Integer IP core is a stable version of the M32HAIAF family processors. This
 
 ### Results
 
+#### Compilation Run 
+![img](imgs/Clean_Integer_Core_With_IO.png)
+
 #### Simulation 
 ![image](imgs/Sim.png)
 
-### Data Memory to M32HAIAF Core Interface
+#### Data Memory to M32HAIAF Core Interface
 ![image](imgs/CPU_DATA_MEM.png)
 
-### Instruction Memory to M32HAIAF Core Interface
+#### Instruction Memory to M32HAIAF Core Interface
 ![image](imgs/CPU_TOP_LEVEL.png)
 
-### Top Level Architecture
+#### Top Level Architecture
 ![image](imgs/CPU_TOP.png)
+
 
