@@ -52,7 +52,7 @@ The following MIPS32 instructions are supported by our Integer Core v1.01.
 | --------------------------- | ------------------ |
 | ISA                         | MIPS32             |
 | Family                      | M32HAIAF           |
-| Model                       | 0002(Latest)       |
+| Model                       | 0003(Latest)       |
 | Architecture                | Harvard Model      |
 | GPRs                        | 32                 |
 | Flags                       | Overflow,Zero,Halt |
