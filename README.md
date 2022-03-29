@@ -60,6 +60,6 @@ The following MIPS32 instructions are supported by our Integer Core v1.01.
 | External Interrupts         |  1                 |
 | FPU Supported Operations    | Add,Sub,Mul,Div    |
 | Pipelined                   | Yes                |
-| I/O Interfaces              | UART,PS-II,I2C     |
+| I/O Interfaces              | UART,PS-II,I2C,VGA |
 | Bus Interface               | AXI or PCI (NYD)   | 
 
