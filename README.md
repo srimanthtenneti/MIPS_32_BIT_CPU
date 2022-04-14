@@ -57,9 +57,9 @@ The following MIPS32 instructions are supported by our Integer Core v1.01.
 | GPRs                        | 32                 |
 | Flags                       | Overflow,Zero,Halt |
 | Supported Instruction Types | R,I,J Types        |
-| External Interrupts         |  1                 |
-| FPU Supported Operations    | Add,Sub,Mul,Div    |
+| External Interrupts         |  0                 |
+| FPU Supported Operations    | None               |
 | Pipelined                   | Yes                |
 | I/O Interfaces              | UART,PS-II,I2C,VGA |
-| Bus Interface               | AXI or PCI (NYD)   | 
+| Bus Interface               | AHB-Lite           | 
 
