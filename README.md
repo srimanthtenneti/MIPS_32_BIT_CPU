@@ -7,7 +7,7 @@
       1. [History](#mips_his)
       2. [Targeted ISA](#ISA)
 3. [Processor Specifications](#spec)
-4. 
+4. [System Bus](#bus)
 5. [Simulation](#sim)
 6. [Implementation](#impl)
 7. [Reports](#rpts)
@@ -62,4 +62,8 @@ The following MIPS32 instructions are supported by our Integer Core v1.01.
 | Pipelined                   | Yes                |
 | I/O Interfaces              | UART,PS-II,I2C,VGA |
 | Bus Interface               | AHB-Lite           | 
+
+
+### AHB-Lite System Bus <a name="bus"></a>
+![BUS](Images/System Bus.png)
 
