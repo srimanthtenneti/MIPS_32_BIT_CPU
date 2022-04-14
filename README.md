@@ -65,5 +65,5 @@ The following MIPS32 instructions are supported by our Integer Core v1.01.
 
 
 ### AHB-Lite System Bus <a name="bus"></a>
-![BUS](Images/System Bus.png)
+![BUS](Images/System_Bus.png)
 
